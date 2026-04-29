@@ -1,0 +1,16 @@
+[submodule "organisations"]
+	path = organisations
+	url = https://github.com/genc-v/organisations
+	branch = main
+[submodule "cmsUserManagment"]
+	path = cmsUserManagment
+	url = https://github.com/genc-v/cmsUserManagment
+	branch = adding-new-tables
+[submodule "cmsContentManagement"]
+	path = cmsContentManagement
+	url = https://github.com/JonFjz/cmsContentManagement
+	branch = change-table-and-redis
+[submodule "nest-s3-kafka"]
+	path = nest-s3-kafka
+	url = https://github.com/JonFjz/nest-s3-kafka
+	branch = update-db
